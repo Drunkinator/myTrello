@@ -69,6 +69,7 @@ Un blog très pertinent  : http://laravel.sillo.org/
 ## Le mcd de l'application
 
 [mcd]: https://raw.githubusercontent.com/NF-yac/todo-b2-20-21/master/database/mcd/todo.svg "MCD de l'application"
+<<<<<<< HEAD
 
 Difficultés rencontrées :
   -Compréhention du code de base
@@ -78,3 +79,5 @@ Difficultés rencontrées :
 Solutions :
   -Travail de groupe
   -Recherche dans des forums
+=======
+>>>>>>> main
